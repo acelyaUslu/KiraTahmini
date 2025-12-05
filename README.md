@@ -1,2 +1,2 @@
-"# Kira Tahmini Uygulamasi" 
+# Kira Tahmini Uygulaması
 
