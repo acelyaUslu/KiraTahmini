@@ -1,1 +1,1 @@
-"#Kira Tahmini Uygulamasç" 
+"#Kira Tahmini Uygulamasi" 
